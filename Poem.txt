@@ -3,6 +3,7 @@ It contains colors like:
 Purple 
 Green
 Orange
+Yellow
 Blue
 Pink 
 Red
